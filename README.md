@@ -74,7 +74,7 @@ MS SQL Server любой версии (допустимо использоват
 1. Переписать в inline TVF:
 
 ```sql
-CREATE FUNCTION dbo.F_WORKS_LIST_INLINE()
+CREATE FUNCTION dbo.f_works_list_2()
 RETURNS TABLE
 AS
 RETURN
